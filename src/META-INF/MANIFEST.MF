@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: mich282q.Bunden_Forudsaetning1_Et_spil.BasicGameApp
-
